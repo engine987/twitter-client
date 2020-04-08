@@ -16,7 +16,7 @@ Your code should contain a Readme file explaining how to install and run the uni
     
     (3) Go to 'http://localhost:8765/twitter/index'
     
-4. To run the allication - Cool way
+4. To run the application - Cool way
 
     (a) cd to the 'docker-scripts' directory
     
