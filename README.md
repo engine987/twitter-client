@@ -14,7 +14,7 @@ Your code should contain a Readme file explaining how to install and run the uni
     
     (b) Run Cake's in built web server 'bin/cake server -p 8765'
     
-    (3) Go to 'http://localhost:8765/twitter/index'
+    (3) Go to 'http://localhost:8765/twitter/get-tweets'
     
 4. To run the application - Cool way
 
@@ -24,8 +24,7 @@ Your code should contain a Readme file explaining how to install and run the uni
     
     (3) Make a cup of coffee
     
-    (4) Go to 'http://localhost/twitter/index'
+    (4) Go to 'http://localhost/twitter/get-tweets'
     
 ## Shortcuts
-1. Using the Configure object was a dirty hack. I sould have implemented a DI container instead.
-2. I did not write *All* the unit tests.
+1. I did not write *All* the unit tests. I just wrote the main ones.  
