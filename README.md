@@ -27,4 +27,5 @@ Your code should contain a Readme file explaining how to install and run the uni
     (4) Go to 'http://localhost/twitter/get-tweets'
     
 ## Shortcuts
-1. I did not write *All* the unit tests. I just wrote the main ones.  
+- 1. I did not write *All* the unit tests, just the main bits
+- 2. I am using the Config class as a container, I should have written my own Container
