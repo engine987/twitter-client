@@ -28,4 +28,4 @@ Your code should contain a Readme file explaining how to install and run the uni
     
 ## Shortcuts
 - 1. I did not write *All* the unit tests, just the main bits
-- 2. I am using the Config class as a container, I should have written my own Container
+- 2. I am using the Config class as a container, I should have written my own Container( CakePHP does NOT have a Service container like Laravel does).
