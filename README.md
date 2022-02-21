@@ -1,4 +1,4 @@
-# twitter-cient
+# twitter-client
 A small client to call Twitter API
 
 Instructions : Your challenge is to create a single website in PHP (Choose the framework you are most best with) which will fetch the Twitter API for the latest 200 tweets related to Taste.com.au.
